@@ -1,6 +1,6 @@
 # Thad Craft - Husband, Father, Software Engineer, Tech Leader
 
-Hi, I’m Thad. I lead our internal developer platform as a Director and Product Leader at [Kohl's](https://kohls.com/). This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before.
+Hi, I’m Thad. I'm a Staff Engineer at [Shopify](https://shopify.com/). This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before.
 
 It’s also a well-intentioned effort to build some trust by being intentionally vulnerable and to share my ideas of a good working relationship to reduce the anxiety of people who might be on my team. Please feel free to contribute to this page by opening a pull request.
 
@@ -16,8 +16,6 @@ I was born and raised in northern Indiana. I spent nearly ten years in Illinois 
   * I am actively focusing on whether the work gets done rather than how it gets done.
 * I am very social and enjoy talking with people.
   * However, I am working to improve my focus to avoid distractions. Call me out if I get distracted.
-* I have struggled with imposter syndrome as my career has progressed.
-  * To help with this, I am attempting to reframe my definition of success. As an engineer, it was easy to see success in software that works; as a leader, success comes from the outcomes of others.
 
 ### My Brand
 
@@ -69,4 +67,3 @@ Thad is an experienced and skilled engineering leader dedicated to finding solut
 * I ask questions to learn. Please do not take my questions as a sign of doing anything wrong.
 * I express gratitude frequently. This is genuine.
 * I like to fix things. Please let me know if you just need to vent without action.
-* Sometimes, my calendar will be packed with meetings. Please DM me on Slack if you can’t find time. I will always make time for you.
